@@ -1,6 +1,4 @@
 # Data-Analytics-Capstone
-Capstone Project Tailwind Traders Sales, Profit Reports &amp; Dashboards.
-
 # Tailwind Traders BI Capstone Project
  
 ## Overview
