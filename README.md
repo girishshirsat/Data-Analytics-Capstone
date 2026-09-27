@@ -1,4 +1,3 @@
-# Data-Analytics-Capstone
 # Tailwind Traders BI Capstone Project
  
 ## Overview
