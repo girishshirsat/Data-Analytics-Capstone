@@ -29,7 +29,7 @@ revenue and profitability, and investigate changes over time.
 
 ### 1. Sales Overview --- Product & Customer Performance
 
-![Tailwind Traders Sales Overview](images/sales-overview.png)
+![Tailwind Traders Sales Overview](images/sales.png)
 
 **What this report explores** - Loyalty points across countries. -
 Quantity purchased by product. - Median sales distribution by country. -
@@ -47,7 +47,7 @@ sales performance across markets.
 
 ### 2. Profit Overview --- Revenue & Profitability
 
-![Tailwind Traders Profit Overview](images/profit-overview.png)
+![Tailwind Traders Profit Overview](images/profit.png)
 
 **What this report explores** - Net revenue by product. - Yearly profit
 margin by country. - Profit margin trends over time. - Year-to-date
